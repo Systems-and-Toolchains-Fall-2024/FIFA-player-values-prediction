@@ -1,14 +1,13 @@
 # *Video Link: https://cmu.box.com/s/8mgpujfg59x5ory8w8dg12z1wqv5sl3r*
-
+## Final Score: 107 / 100
 | Rolian(Qirun) Tan | Micah Baldonado |
 |:-----------|--------------------------------------:|
 
-# Contributions:
-# Rolian:
+### Rolian Contributions:
 1. Data preprocessing & EDA (collaborate with Micah).
 2. Database connection and manipulation on Mac system.
 3. Machine Learning model creation and training (Pytorch and Pysparck).
-4. GCP cloud version code creation.
+4. GCP cloud version code creation. (**Get extra 10 points bonus**)
 5. Project description. 
 
 # Instructions:
