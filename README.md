@@ -6,7 +6,7 @@
 ### Rolian Contributions:
 1. Data preprocessing & EDA (collaborate with Micah).
 2. Database connection and manipulation on Mac system.
-3. Machine Learning model creation and training (Pytorch and Pysparck).
+3. Machine Learning model creation and training (Pytorch and Pyspark).
 4. GCP cloud version code creation. (**Get extra 10 points bonus**)
 5. Project description. 
 
