@@ -1,6 +1,6 @@
 # *Video Link: https://cmu.box.com/s/8mgpujfg59x5ory8w8dg12z1wqv5sl3r*
 
-# We choose Option 1 as our course project.
+# We choose Option 1 as our project.
 
 | Rolian(Qirun) Tan | Micah Baldonado |
 |:-----------|--------------------------------------:|
