@@ -1,11 +1,15 @@
 # *Video Link: https://cmu.box.com/s/8mgpujfg59x5ory8w8dg12z1wqv5sl3r*
 
-# We choose Option 1 as our project.
-
 | Rolian(Qirun) Tan | Micah Baldonado |
 |:-----------|--------------------------------------:|
 
-
+# Contributions:
+# Rolian:
+1. Data preprocessing & EDA (collaborate with Micah).
+2. Database connection and manipulation on Mac system.
+3. Machine Learning model creation and training (Pytorch and Pysparck).
+4. GCP cloud version code creation.
+5. Project description. 
 
 # Instructions:
 1. We assemble all the functions, running process and output process in the 'final_sys_tools_project_code.ipynb' file, you can run it directly on the windows system.
